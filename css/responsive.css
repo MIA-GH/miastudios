@@ -1,0 +1,86 @@
+
+
+
+/* if the viewport is equal to 340px or less than that */
+@media only screen and (max-width: 340px){
+    .main-header .main-navigation .navbar,
+    .main-header .main-navigation .navbar .navbar-brand,
+    .main-content .subscribe-us-area .subscribe .subscribe-title,
+    .main-content .subscribe-us-area .subscribe .subscribe-title p, h4,
+    .main-content .services-area,
+    .main-content .subscribe-us-area .subscribe
+    {
+        padding: 2%;
+        margin: 0;
+    }
+
+    .main-content .site-banner .site-title h1{
+        font-size: 41px;
+    }
+
+    .main-content .subscribe-us-area .subscribe form .input-textbox input{
+        width: 15rem    !important;
+    }
+
+    .main-content > .services-area .services{
+        width: 13rem;
+    }
+
+}
+
+
+/* if the viewport is equal to 340px or less than that */
+@media only screen and (max-width: 792px){
+    .main-content .about-area .about-title h2 > span{
+        font-size: 31px;
+        letter-spacing: 10px;
+    }
+
+    .main-content .brand-area .experience-area .years-area{
+        padding-left: 1%;
+        width: 49%;
+    }
+
+    .main-content .brand-area .experience-area .bg-panel{
+        margin-left: 30%;
+        width: 80%;
+    }
+
+    .main-content .brand-area .experience-area .call-area{
+        padding-left: 3%;
+    }
+
+    .main-content .project-area .button-group button{
+        font: normal 500 18px/40px var(--roboto);
+    }
+
+    .main-content .about-area .about-title p{
+        padding: 0%;
+    }
+
+    .main-content .subscribe-us-area .subscribe form .input-textbox input{
+        width: 20rem;
+        margin: 5%;
+    }
+}
+
+
+
+/* if the viewport is equal to 1910px or less than that */
+@media only screen and (max-width: 1910px){
+    .main-header .main-navigation .navbar{
+        padding: 1rem;
+    }
+
+    .container{
+        max-width: 90%;
+    }
+
+    .main-content .brand-area,
+    .main-content .services-area .services-title,
+    .main-content .about-area{
+        padding: 3% 4%;
+    }
+
+
+}

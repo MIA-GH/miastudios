@@ -1,0 +1,11 @@
+/* font families */
+
+@font-face {
+    font-family: "Roboto";
+    src: url(../static/fonts/Roboto/Roboto-Regular.ttf);
+}
+
+@font-face {
+    font-family: "Nexa";
+    src: url(../static/fonts/Nexa/Nexa-Bold.otf);
+}
