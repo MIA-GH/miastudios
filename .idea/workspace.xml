@@ -112,6 +112,8 @@
       <workItem from="1598858363737" duration="466000" />
       <workItem from="1601615865856" duration="184000" />
       <workItem from="1601853995227" duration="555000" />
+      <workItem from="1601854569964" duration="68000" />
+      <workItem from="1601854652280" duration="27000" />
     </task>
     <task id="LOCAL-00001" summary="added screenshots">
       <created>1601854105970</created>
@@ -120,7 +122,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601854105970</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="added screenshots">
+      <created>1601854584839</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1601854584839</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -136,6 +145,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added screenshots" />
@@ -226,9 +236,9 @@
       <screen x="0" y="0" width="1600" height="900" />
     </state>
     <state x="320" y="105" key="SettingsEditor/0.0.1600.900@0.0.1600.900" timestamp="1601854415396" />
-    <state x="518" y="180" key="Vcs.Push.Dialog.v2" timestamp="1601854108501">
+    <state x="518" y="180" key="Vcs.Push.Dialog.v2" timestamp="1601854588572">
       <screen x="0" y="0" width="1600" height="900" />
     </state>
-    <state x="518" y="180" key="Vcs.Push.Dialog.v2/0.0.1600.900@0.0.1600.900" timestamp="1601854108501" />
+    <state x="518" y="180" key="Vcs.Push.Dialog.v2/0.0.1600.900@0.0.1600.900" timestamp="1601854588572" />
   </component>
 </project>
